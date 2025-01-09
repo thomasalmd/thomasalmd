@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomas
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
-- ⚡ Fun fact: 
+- ⚡ Fun fact: looking for the Dragon Balls
 
 <!---
 thomasalmd/thomasalmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
